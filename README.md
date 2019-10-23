@@ -1,2 +1,2 @@
 # Angular2
-angular2 template with no redux
+Angular2 template with no redux
